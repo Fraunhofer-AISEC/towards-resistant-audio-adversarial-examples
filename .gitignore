@@ -1,0 +1,7 @@
+adv.wav
+DeepSpeech/*
+__pychache__/*
+deepspeech-*-checkpoint/*
+offset_audio_added/*
+adv_label
+60ms_silence.wav
